@@ -1,0 +1,20 @@
+{
+	"name": "ervindu/yii-boost",
+	"description": "Yii2 增强库",
+	"authors": [
+		{
+			"name": "ErvinDu",
+			"email": "ervin@163.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"yiivue\\": "src/yii-vue",
+			"yiilte\\": "src/yii-lte",
+			"yiiexpand\\": "src/yii-expand"
+		}
+	},
+	"require": {},
+	"license": "MIT",
+	"minimum-stability": "dev"
+}
